@@ -137,8 +137,8 @@ platforms:
     name: "快讯通"
 
   # === 社交/短视频/娱乐类 ===
-  - id: "weibo"
-    name: "微博"
+  # - id: "weibo"
+  #   name: "微博"
   - id: "douyin"
     name: "抖音"
   - id: "bilibili-hot-search"
@@ -173,8 +173,8 @@ platforms:
     name: "ProductHunt"
 
   # === 其他/工具类 ===
-  - id: "chongbuluo"
-    name: "虫部落"
+  # - id: "chongbuluo"
+  #   name: "虫部落"
 
    NewsNow的信息源在11月20日更新：
 
